@@ -1,0 +1,1 @@
+I'm trying to get Git and GitHub working. Plus this will be my first website, structured with HTML and styled with basic knowledge of CSS. 
