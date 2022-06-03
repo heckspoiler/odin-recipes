@@ -1,0 +1,82 @@
+html {
+    background-color: yellow;
+
+}
+
+h1 {
+    background-color: yellow;
+    font-family: monospace;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 10px 5px;
+}
+
+.ulvegan {
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flood-opacity: 5%;
+    width: fit-content;
+    height: fit-content;
+    padding: auto;
+    padding-right: 10px;
+    border: 2px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    padding:
+
+    
+}
+
+.descriptionwater {
+    content: normal;
+    width: auto;
+    height: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 120%;
+}
+
+/* maybe for later
+.cucumberwater {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: blue;
+    align-content: center;
+    align-content: center;
+    
+}
+*/
+
+.cucumberwater-picture {
+    display: block;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px 20px;
+    max-height: fit-content;
+    min-width: none;
+    background-color: blue;
+    border: 2px solid blue;
+    width: 20%;
+    height: 20%;
+
+}
+
+.howto {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-stretch: expanded;
+    height: max-content;
+    width: max-content;
+}
+
+.veganrecipetitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
