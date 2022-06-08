@@ -1,14 +1,21 @@
 html {
-    background-color: yellow;
+    background-color: transparent;
+    
 
 }
 
+body {
+    
+}
+
 h1 {
-    background-color: yellow;
+    background-image: url('/Users/Carlito/Desktop/Shirt Tolli Logos/shirt tolli logos/ch5.jpeg');
     font-family: monospace;
-    padding: 5px;
-    border: 2px solid black;
-    margin: 10px 5px;
+    padding: 100px;
+    margin: 50x 5px;
+    border: 25px solid transparent;
+    border-image: url('/Users/Carlito/Desktop/Shirt Tolli Logos/shirt tolli logos/ch5.jpeg') 1 1 1 1 round;
+    z-index:inherit;
 }
 
 .ulvegan {
@@ -23,9 +30,6 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     align-content: center;
-    padding:
-
-    
 }
 
 .descriptionwater {
